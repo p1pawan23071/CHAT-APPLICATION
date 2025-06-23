@@ -68,3 +68,7 @@ Implement proper authentication
 Add persistent storage for messages
 Include proper error handling
 Deploy the server component to a Node.js hosting environment.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/0e8278f4-a65a-40a9-8852-8dfe9d0c77ce)
